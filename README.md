@@ -106,7 +106,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
 </div>
 
-# YANA YANTO 🌌
+# Vanish Me Now 🌌
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YanaYaanto) 
