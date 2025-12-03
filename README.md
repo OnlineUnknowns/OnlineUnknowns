@@ -110,7 +110,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YanaYaanto) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/YanaYaanto)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Code2Bot)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/NileTech.Institute)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
@@ -119,7 +119,7 @@
 
 ## 🌟 About Me
 - **📍 Location**: NO WHERELAND 🚫
-- **📞 Contact**: +20 1029107547 | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
+- **📞 Contact**: +201286016083 | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
 - **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
 
 ---
