@@ -1,8 +1,8 @@
-# 🚀 OT/ICS Security Specialis
+# 🚀 OT/ICS Security Specialist
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ornithopter+Architecture+Advanced+CyberSecurity;Biomimetic UAV  +Critical Energy Infrastructure ;Fast+Reliable+Scalable+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ornithopter+Architecture+%7C+Advanced+Cybersecurity;Biomimetic+UAV+%7C+Critical+Energy+Infrastructure;Fast+%7C+Reliable+%7C+Scalable+Automation" />
 
 <br/>
 
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 </div>
-
 ## 🚀 Languages, Frameworks, and Tools
 
 <h2 align="left">I code with</h2>
