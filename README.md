@@ -173,7 +173,7 @@
 
 ## 🌟 About Me
 - **📍 Location**: Egypt - Hurghada 🇪🇬 
-- **📞 Contact**: +201286016083 | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
+- **📧 Email**: | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
 - **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
 
 ---
