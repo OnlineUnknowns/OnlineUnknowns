@@ -167,7 +167,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/OnlineUnknowns)
 
-👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
+# Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
  
 ---
 
