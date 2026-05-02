@@ -1,3 +1,19 @@
+# 🚀 OT/ICS Security Specialis
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ornithopter+Architecture+Advanced+CyberSecurity;Biomimetic UAV  +Critical Energy Infrastructure ;Fast+Reliable+Scalable+Automation" />
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</div>
+
 ## 🚀 Languages, Frameworks, and Tools
 
 <h2 align="left">I code with</h2>
@@ -106,7 +122,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
 </div>
 
-# Vanish Me Now 🌌
+# Unknown 🌌
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YanaYaanto) 
