@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Status-Researching%20%26%20Building-success?style=for-the-badge"/>
 
 </div>
-## 🚀 Languages, Frameworks, and Tools
+
 
 <h2 align="left">I code with</h2>
 
