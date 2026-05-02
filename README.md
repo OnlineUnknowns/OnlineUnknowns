@@ -168,11 +168,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/OnlineUnknowns)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
-
+ 
 ---
 
 ## 🌟 About Me
-- **📍 Location**: NO WHERELAND 🚫
+- **📍 Location**: Egypt - Hurghada 🇪🇬 
 - **📞 Contact**: +201286016083 | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
 - **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
 
