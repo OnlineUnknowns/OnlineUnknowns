@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialty-Cybersecurity%20Engineering-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Driven%20Security%20Tools-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Expertise-Ethical%20Hacking%20Automation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20AI%20%7C%20Security-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Researching%20%26%20Building-success?style=for-the-badge"/>
 
 </div>
 ## 🚀 Languages, Frameworks, and Tools
