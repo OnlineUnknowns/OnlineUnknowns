@@ -207,10 +207,10 @@
 </p>
 # Unknown 🌌
 
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
 [![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/OnlineUnknowns)
 
 # Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
@@ -534,21 +534,408 @@
 </div>
 
 ---
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                        HEADER BLOCK                               -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
 
-## 📚 Learning Path
-- **Cybersecurity Essentials**: Learn the basics of ethical hacking and threat analysis.
-- **Advanced Web Development**: Deep dive into JavaScript frameworks like React and Angular.
-- **Recommended Books**: *Clean Code*, *The Pragmatic Programmer*, *You Don't Know JS*.
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=3&section=header" width="100%"/>
 
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=200&section=header&text=SECURITY%20RESEARCH%20LAB&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Defensive%20Security%20%7C%20Threat%20Intelligence%20%7C%20Secure%20Engineering&descAlignY=58&descSize=15&descColor=8b949e" width="100%"/>
 
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Cybersecurity+Researcher+%7C+13%2B+Years+Experience;Defensive+Security+Engineer+%7C+Threat+Intelligence;Critical+Systems+Protection+%7C+SOC+Architecture;Security+%3E+Compliance+%7C+Defense+%3E+Offense)](https://git.io/typing-svg)
 
+<br/>
 
+<!-- Core Identity Badges -->
+![Experience](https://img.shields.io/badge/Experience-13%2B%20Years-58a6ff?style=flat-square&logo=buffer&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Defensive%20Security-238636?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Critical%20Infrastructure-da3633?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+![Approach](https://img.shields.io/badge/Approach-Threat--Informed%20Defense-8b949e?style=flat-square&logo=protonmail&logoColor=white)
 
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--             S E C T I O N   0 1  —  RESEARCH & PROTECTION         -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2&section=header" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### 🛡️ &nbsp; Cybersecurity Research & Critical Systems Protection
+
+</td><td align="right">
+
+![Research](https://img.shields.io/badge/Research-Active-238636?style=flat-square)
+![ICS/OT](https://img.shields.io/badge/ICS%2FOT-Specialist-da3633?style=flat-square)
+
+</td></tr></table>
+
+Research focus spans **enterprise environments**, **industrial control systems (ICS/OT)**, and **critical national infrastructure** — with emphasis on understanding attacker tradecraft to build resilient, evidence-based defenses.
+
+```
+Primary Research Areas
+─────────────────────────────────────────────────────────────────────
+  ▸ Adversarial Simulation & Purple Team Operations
+  ▸ Critical Infrastructure Attack Surfaces (ICS / SCADA / OT)
+  ▸ Vulnerability Research — Zero-Day Triage & Responsible Disclosure
+  ▸ Malware Behavioral Analysis & Reverse Engineering
+  ▸ Supply Chain Security & Third-Party Risk Modeling
+```
+
+**Key Principles:**
+- Threat-informed defense over compliance-first security
+- Evidence-based risk prioritization using adversary intelligence
+- Continuous validation of defensive controls against real TTPs
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--           S E C T I O N   0 2  —  THREAT INTELLIGENCE             -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### 🧠 &nbsp; Threat Intelligence & Defensive Security
+
+</td><td align="right">
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Navigator-58a6ff?style=flat-square&logo=target&logoColor=white)
+![TI](https://img.shields.io/badge/CTI-Operational-8b949e?style=flat-square)
+
+</td></tr></table>
+
+Operationalizing **Cyber Threat Intelligence (CTI)** — from raw indicator ingestion to finished intelligence products that drive defensive action. Analysis grounded in the **MITRE ATT&CK** framework with structured diamond model methodology.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Intelligence Collection**
+- OSINT / HUMINT pipeline development
+- Threat actor profiling & campaign tracking
+- Dark web monitoring & data leak detection
+- IOC lifecycle management (creation → deprecation)
+
+</td>
+<td width="50%" valign="top">
+
+**Intelligence Application**
+- ATT&CK mapping & TTP-based detections
+- Threat hunting hypothesis development
+- Adversary emulation planning (MITRE Engage)
+- Strategic & tactical intelligence reporting
+
+</td>
+</tr>
+</table>
+
+```
+Intelligence Frameworks & Standards
+─────────────────────────────────────────────────────────────────────
+  MITRE ATT&CK  │  D3FEND  │  STIX/TAXII  │  OpenCTI
+  Diamond Model │  Kill Chain  │  TIBER-EU  │  NIST CSF
+```
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--         S E C T I O N   0 3  —  SECURITY ENGINEERING              -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### 🔐 &nbsp; Security Engineering & Architecture
+
+</td><td align="right">
+
+![Zero Trust](https://img.shields.io/badge/Architecture-Zero%20Trust-58a6ff?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-Multi--Cloud%20Secure-238636?style=flat-square)
+
+</td></tr></table>
+
+Designing and building security systems that are **resilient by architecture** — not bolted on as afterthought. Focused on defense-in-depth models that survive adversarial pressure, not just audit scrutiny.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Identity & Access**
+```
+├── Zero Trust Architecture
+├── PAM / Just-in-Time Access
+├── MFA & Phishing-Resistant AuthN
+├── Directory Hardening (AD/AAD)
+└── OAuth2 / OIDC / SAML Flows
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Network Security**
+```
+├── Micro-Segmentation Design
+├── Encrypted Traffic Analysis
+├── East-West Traffic Inspection
+├── DNS Security (RPZ / DoH/DoT)
+└── BGP Hardening & DDoS Mitigation
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Cloud & Infra**
+```
+├── Cloud Security Posture Mgmt
+├── Container & K8s Hardening
+├── Immutable Infrastructure
+├── Secrets Management (Vault)
+└── IaC Security Scanning
+```
+
+</td>
+</tr>
+</table>
+
+<!-- Tech Stack Badges -->
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Chronicle-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Hardening-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC%20Security-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp-Vault-000000?style=flat-square&logo=vault&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--          S E C T I O N   0 4  —  MONITORING & IR                  -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### 📡 &nbsp; Monitoring & Incident Response
+
+</td><td align="right">
+
+![SOC](https://img.shields.io/badge/SOC-Design%20%26%20Ops-da3633?style=flat-square&logo=datadog&logoColor=white)
+![IR](https://img.shields.io/badge/IR-PICERL%20Framework-58a6ff?style=flat-square)
+
+</td></tr></table>
+
+Building **detection capabilities that scale** — from SIEM rule engineering to full SOC buildout. Incident response grounded in structured methodology, forensic integrity, and post-incident intelligence extraction.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Detection Engineering**
+- SIEM architecture & rule development
+- Behavioral analytics & UEBA tuning
+- Threat hunting playbook construction
+- False positive reduction pipelines
+- Log source normalization & enrichment
+
+**Tooling**
+```
+Splunk  │  Elastic SIEM  │  Microsoft Sentinel
+Suricata  │  Zeek  │  Wazuh  │  Velociraptor
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Incident Response**
+- IR plan development & tabletop facilitation
+- Digital forensics — disk, memory, network
+- Ransomware containment & recovery
+- Threat actor eviction & re-hardening
+- Root cause analysis & lessons-learned reports
+
+**IR Lifecycle**
+```
+Prepare → Identify → Contain
+Eradicate → Recover → Review
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--            S E C T I O N   0 5  —  DEVSECOPS                      -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### ⚙️ &nbsp; DevSecOps & Secure Development
+
+</td><td align="right">
+
+![Pipeline](https://img.shields.io/badge/Pipeline-Shift--Left%20Security-238636?style=flat-square&logo=githubactions&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-Security%20Integrated-8b949e?style=flat-square)
+
+</td></tr></table>
+
+Embedding security into the software delivery lifecycle — not as a gate, but as a **continuous, automated capability**. Security that moves at the speed of engineering.
+
+```
+Secure SDLC Pipeline
+─────────────────────────────────────────────────────────────────────────────
+  Code        →  Commit        →  Build         →  Test          →  Deploy
+  ─────────      ───────────      ──────────       ──────────       ───────
+  Threat        Pre-commit       SAST / SCA       DAST / IAST      Runtime
+  Modeling      Hooks            Container        Fuzzing          Protection
+  Secure        Secret           Image Scan       Pentest          CSPM
+  Coding        Scanning         Signing          Compliance       Monitoring
+  Standards                      SBOM Gen         Gate Check       Alerting
+```
+
+<div align="center">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD%20Security-181717?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-SAST-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-SCA-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-Container%20Scan-1904DA?style=flat-square&logo=aquasec&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-ZAP%20%2F%20Top10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-Static%20Analysis-FF6B35?style=flat-square)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--            S E C T I O N   0 6  —  LEARNING & REFERENCES          -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<table width="100%"><tr><td>
+
+### 📚 &nbsp; Learning & References
+
+</td><td align="right">
+
+![Continuous Learning](https://img.shields.io/badge/Learning-Continuous-58a6ff?style=flat-square&logo=bookstack&logoColor=white)
+
+</td></tr></table>
+
+Continuous learning is non-negotiable in security. Frameworks, communities, and resources that inform daily practice:
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Frameworks & Standards**
+
+| Resource | Domain |
+|----------|--------|
+| [MITRE ATT&CK](https://attack.mitre.org) | Adversary TTPs |
+| [NIST CSF 2.0](https://www.nist.gov/cyberframework) | Risk Framework |
+| [OWASP](https://owasp.org) | Application Security |
+| [CIS Controls](https://www.cisecurity.org/controls) | Baseline Hardening |
+| [NIST SP 800-53](https://csrc.nist.gov) | Control Catalog |
+| [D3FEND](https://d3fend.mitre.org) | Defensive Techniques |
+
+</td>
+<td width="50%" valign="top">
+
+**Communities & Intelligence Feeds**
+
+| Resource | Type |
+|----------|------|
+| [CISA Advisories](https://www.cisa.gov/advisories) | Threat Alerts |
+| [AlienVault OTX](https://otx.alienvault.com) | Open Threat Intel |
+| [Feedly Threat Intel](https://feedly.com) | RSS Intelligence |
+| [The DFIR Report](https://thedfirreport.com) | IR Case Studies |
+| [VX-Underground](https://vx-underground.org) | Malware Research |
+| [Sans Internet Storm](https://isc.sans.edu) | Daily Threat Diary |
+
+</td>
+</tr>
+</table>
+
+**Certifications & Training Pathways**
+
+![OSCP](https://img.shields.io/badge/OSCP-Offensive%20Security-da3633?style=flat-square)
+![CISSP](https://img.shields.io/badge/CISSP-ISC2-0066CC?style=flat-square)
+![CEH](https://img.shields.io/badge/CEH-EC--Council-238636?style=flat-square)
+![GIAC](https://img.shields.io/badge/GIAC-SANS%20Certifications-FF6B35?style=flat-square)
+![SC-200](https://img.shields.io/badge/SC--200-Microsoft%20Security-0078D4?style=flat-square&logo=microsoftazure)
+![CKS](https://img.shields.io/badge/CKS-Kubernetes%20Security-326CE5?style=flat-square&logo=kubernetes)
+
+<br/>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                       PHILOSOPHY BLOCK                             -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   "Security is not a product you buy. It's a posture you maintain."   ║
+║                                                                        ║
+║    Know your adversary. Understand your terrain. Defend with intent.  ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- Stat Cards Row -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=6" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff" height="160"/>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0a&height=100&section=footer" width="100%"/>
+
+<sub>
+Defensive Security · Threat Intelligence · Secure Engineering · Critical Infrastructure Protection
+</sub>
+
+</div>
 ---
 
 ## 🦈 Shark Hacker | Cyber Security Specialist 🦈
