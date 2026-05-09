@@ -216,14 +216,6 @@
 # Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
  
 ---
-
-## 🌟 About Me
-- **📍 Location**: Egypt - Hurghada 🇪🇬 
-- **📧 Email**: | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
-- **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
-
----
-
 ## 🚀 Career Timeline
 - **2018**: Joined as a **Cybersecurity Analyst** at].
 - **2015**: Started contributing to **Open Source Projects**.
@@ -232,13 +224,7 @@
 
 ---
 
-## 🛠️ Professional Expertise
-- **Network Technologies**: Cisco, Juniper, Wi-Fi, VPN
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Security**: Penetration Testing, Forensics, SOC, Cryptography
-- **Database Management**: SQL, NoSQL (MongoDB, PostgreSQL)
 
----
 
 ## ⚙️ Skills
 | **Skill**              | **Description**                                           |
