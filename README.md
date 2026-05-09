@@ -225,10 +225,10 @@
 ---
 
 ## 🚀 Career Timeline
-- **2023**: Joined as a **Cybersecurity Analyst** at].
-- **2021**: Started contributing to **Open Source Projects**.
-- **2020**: Developed multiple **Full Stack applications** for clients.
-- **2018**: Obtained a **certification in Network Administration**.
+- **2018**: Joined as a **Cybersecurity Analyst** at].
+- **2015**: Started contributing to **Open Source Projects**.
+- **2013**: Developed multiple **Full Stack applications** for clients.
+- **2010**: Obtained a **certification in Network Administration**.
 
 ---
 
