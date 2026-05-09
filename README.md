@@ -919,24 +919,7 @@ Continuous learning is non-negotiable in security. Frameworks, communities, and 
 ╚════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
 
-<!-- Stat Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=6" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff" height="160"/>
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0a&height=100&section=footer" width="100%"/>
-
-<sub>
-Defensive Security · Threat Intelligence · Secure Engineering · Critical Infrastructure Protection
-</sub>
-
-</div>
----
 
 ## 🦈 Shark Hacker | Cyber Security Specialist 🦈
 
