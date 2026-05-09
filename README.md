@@ -262,7 +262,7 @@
 <!--                     ANIMATED HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AUTOMATION%20ARSENAL&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Next-Gen%20Visa%20%26%20Appointment%20Bots&descAlignY=54&descSize=18" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Autonomous+Booking+Systems;%F0%9F%94%93+Captcha+%26+Selfie+Bypass+Engines;%F0%9F%8C%90+Multi-Country+Visa+Automation;%F0%9F%A4%96+Intelligent+Slot+Detection+Bots)](https://git.io/typing-svg)
 
 <br/>
 
