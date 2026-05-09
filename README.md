@@ -258,27 +258,21 @@
 
 ## 🚀 Featured Automation Projects
 
-<p align="center">
+<div align="center">
 
-[![BLS Morocco Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Morocco-Bot-Selfi-bypass-&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-)
+### 🧠 BLS & Visa Automation Bots
 
-[![BLS Pakistan Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Pakistan-Bot&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot)
+- 🔥 [BLS Morocco Bot](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-)
+- 🔥 [BLS Pakistan Bot](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot)
+- 🔥 [BLS Algeria Bot](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-)
+- 🔥 [Mauritania Bot](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot)
+- 🔥 [Prenotami Italy Bot](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-)
+- 🔥 [Germany Appointment Bot](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot)
+- 🔥 [VFS Turkey Bot](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-)
+- 🔥 [VFS Global Bot](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot)
+- 🔥 [Almaviva Bot](https://github.com/OnlineUnknowns/Almaviva-Bot)
 
-[![BLS Algeria Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Algeria-Bot-Booking--Selfie--Bypass-&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-)
-
-[![Mauritania Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Mauritania-BLS-Bot&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot)
-
-[![Prenotami Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Prenotami-Bot-Booking-Apointment-ITALY-&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-)
-
-[![Germany Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Germany-appointment-booking-bot&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot)
-
-[![VFS Turkey Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=VFS-Turkey-Bot-Appointment-&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-)
-
-[![VFS Global Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=VFS-GLOBAL-Appointment-Bot&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot)
-
-[![Almaviva Bot](https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Almaviva-Bot&theme=tokyonight&hide_border=true)](https://github.com/OnlineUnknowns/Almaviva-Bot)
-
-</p>
+</div>
 
 ---
 
