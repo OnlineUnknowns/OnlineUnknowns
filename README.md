@@ -257,14 +257,51 @@
 ---
 
 ## 🔥 Featured Projects
+<h2 align="center">🚀 Featured Automation Projects</h2>
 
-## 📊 GitHub Stats
-| Project Name                        | GitHub Link                                               |
-|-------------------------------------|-----------------------------------------------------------|
-| Scienceveli-Game                    | [Scienceveli-Game](https://github.com/webveli/Scienceveli-Game) |
-| Scienceveli-Online-Gaming           | [Scienceveli-Online-Gaming](https://github.com/webveli/Scienceveli-Online-Gaming) |
-| Webveli-Wallet                      | [Webveli-Wallet](https://github.com/webveli/Webveli-Wallet) |
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Advanced+Visa+Booking+Automation;AI+Powered+Appointment+Bots;Bypass+%7C+Captcha+%7C+Selfie+Automation" />
+</p>
 
+<div align="center">
+
+<a href="https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Morocco-Bot-Selfi-bypass-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/BLS-Pakistan-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Pakistan-Bot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=BLS-Algeria-Bot-Booking--Selfie--Bypass-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/Mauritania-BLS-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Mauritania-BLS-Bot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Prenotami-Bot-Booking-Apointment-ITALY-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/Germany-appointment-booking-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Germany-appointment-booking-bot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=VFS-Turkey-Bot-Appointment-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=VFS-GLOBAL-Appointment-Bot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/OnlineUnknowns/Almaviva-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlineUnknowns&repo=Almaviva-Bot&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
