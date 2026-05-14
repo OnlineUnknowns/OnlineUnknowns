@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=AI-Powered+Visa+Appointment+Automation;Real-Time+Slot+Detection+and+Instant+Booking;VFS+Global+%7C+BLS+International+%7C+TLScontact;Desktop+App+%7C+Admin+Dashboard+%7C+Telegram+Alerts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Booking-Appointment+System+Automation;Real-Time+Slot+Detection+and+Instant+Booking;VFS+Global+%7C+BLS+International+%7C+TLScontact;Desktop+App+%7C+Admin+Dashboard+%7C+Telegram+Alerts)](https://git.io/typing-svg)
 
 <br/>
 
