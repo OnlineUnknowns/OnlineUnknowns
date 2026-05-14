@@ -1,946 +1,529 @@
-# 🚀 OT/ICS Security Specialist
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12"/>
+  <img src="https://img.shields.io/badge/Eel-GUI-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Eel"/>
+  <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Telegram-Alerts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API"/>
+  <img src="https://img.shields.io/badge/PyInstaller-Packager-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller"/>
+</p>
 
-<div align="center">
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=+CyberSecurity+%7C+Ornithopter+Architecture;Biomimetic+UAV+%7C+Critical+Energy+Infrastructure;Fast+%7C+Reliable+%7C+Scalable+Automation" />
+# 🤖 Smart Appointment Booking Bot
 
-<br/>
-
-<img src="https://img.shields.io/badge/Specialty-Cybersecurity%20Engineering-darkred?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Driven%20Security%20Tools-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Expertise-Ethical%20Hacking%20Automation-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20AI%20%7C%20Security-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Researching%20%26%20Building-success?style=for-the-badge"/>
-
-</div>
-
-
-<h2 align="left">⚡ Tech Stack</h2>
+> **Enterprise-grade desktop automation for VFS, BLS, and TLS visa appointment platforms.**  
+> Detect open slots the moment they appear — and book them before anyone else.
 
 <p align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-
-<!-- Database -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-
-
-<h2 align="left">I code with</h2>
-
-<div align="center">
-  <!-- Core Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="10" />
-
-  <!-- Backend & Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img width="10" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="10" />
-
-  <!-- DevOps / Infrastructure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
-  <img width="10" />
-
-  <!-- AI / Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
-  <img width="10" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</div>
-
-<div align="center">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <!-- After Effects -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
-  <img width="12" />
-  <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <!-- Anaconda -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <!-- Android Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <!-- Angular -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <!-- Canva -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-  <img width="12" />
-  <!-- Vue.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <!-- Blender -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-  <img width="12" />
-  <!-- Unity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-</div>
-
+  <a href="https://www.linkedin.com/in/onlineunknown/" target="_blank">🔗 LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/onlineunknowns" target="_blank">☕ Buy Me a Coffee</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://wa.me/201286016083" target="_blank">💬 WhatsApp Support</a>
 </p>
-# Unknown 🌌
-
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
-[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlineunknown/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/OnlineUnknowns)
-
-# Full Stack Developer | Cybersecurity Expert | Network Specialist 👨‍💻 
- 
----
-## 🚀 Career Timeline
-- **2018**: Joined as a **Cybersecurity Analyst** at].
-- **2015**: Started contributing to **Open Source Projects**.
-- **2013**: Developed multiple **Full Stack applications** for clients.
-- **2010**: Obtained a **certification in Network Administration**.
 
 ---
 
+## 📖 Overview
 
+**Smart Appointment Booking Bot** is a production-ready, enterprise desktop application that continuously monitors visa appointment platforms (VFS Global, BLS International, TLS Contact) and **automatically books available slots** the instant they become free.
 
-## ⚙️ Skills
-| **Skill**              | **Description**                                           |
-|------------------------|-----------------------------------------------------------|
-| **Web Development**    | HTML, CSS, JavaScript, React, Node.js                     |
-| **Cybersecurity**      | Penetration Testing, Forensic Analysis, Threat Detection  |
-| **Networking**         | Cisco, Juniper, VPN, Network Troubleshooting              |
-| **Database**           | SQL, MongoDB, PostgreSQL                                  |
+Built for immigration consultants, visa agencies, and individual applicants who cannot afford to miss a critical appointment window. The bot operates silently in the background — rotating proxies, solving CAPTCHAs, navigating multi-step booking flows — and fires an instant Telegram notification the moment a slot is secured.
+
+The application ships as a single-file Windows installer and includes a polished web-based admin panel, license activation system, and multi-account management — everything needed to operate at scale.
 
 ---
 
-## 📜 Certifications
-- **Certification in Network Administration** 📃
-- **Certification in Cybersecurity** 🔐
+## ✨ Features
+
+- 🌐 **Multi-Browser Automation** — Powered by Playwright; supports Chromium, Firefox, and WebKit with configurable stealth profiles
+- 🔍 **Real-Time Slot Monitoring** — Polls target platforms at configurable intervals (down to seconds) and reacts the moment a slot opens
+- 📲 **Instant Telegram Alerts** — Sends booking confirmations, failure notices, and slot-found alerts directly to your Telegram bot or group
+- 🔄 **Automatic Slot Booking** — Completes the full multi-step booking form autonomously, including personal data entry, document type selection, and confirmation
+- 🛡️ **Proxy Rotation** — Supports HTTP/SOCKS5 proxy lists with automatic rotation and dead-proxy removal to avoid IP bans
+- 🧠 **CAPTCHA Handling** — Integrated with third-party CAPTCHA-solving services (2Captcha, CapSolver) for seamless unblocking
+- 🖥️ **Native Desktop GUI** — Sleek Eel + TailwindCSS + GSAP frontend packaged as a true desktop application (no browser required by the user)
+- 🗂️ **Multi-Account Management** — Manage multiple applicant profiles, each with independent scheduling, proxy, and notification settings
+- 🔑 **License Activation System** — Hardware-fingerprinted license keys with online activation and grace-period offline mode
+- ⚙️ **Admin Panel** — Flask-powered web dashboard at `http://localhost:5000` for monitoring sessions, viewing logs, and managing accounts
+- 🔁 **Auto-Update Engine** — Checks for new releases at startup and applies updates with a single click
+- 💾 **SQLite Local Storage** — All profiles, logs, and session data stored locally; no cloud dependency
+- 📋 **Detailed Activity Logs** — Timestamped, filterable logs for every monitoring session and booking attempt
+- 🕐 **Scheduled Monitoring** — Set specific time windows to run the bot (e.g., monitor only 08:00–10:00 when slots typically drop)
+- 🧩 **Modular Platform Adapters** — Each visa platform (VFS, BLS, TLS) is a self-contained plugin; new platforms can be added without touching core logic
 
 ---
 
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Autonomous+Booking+Systems;%F0%9F%94%93+Captcha+%26+Selfie+Bypass+Engines;%F0%9F%8C%90+Multi-Country+Visa+Automation;%F0%9F%A4%96+Intelligent+Slot+Detection+Bots)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      TYPING EFFECT SVG                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Autonomous+Booking+Systems;%F0%9F%94%93+Captcha+%26+Selfie+Bypass+Engines;%F0%9F%8C%90+Multi-Country+Visa+Automation;%F0%9F%A4%96+Intelligent+Slot+Detection+Bots)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Status Badges -->
-![Projects](https://img.shields.io/badge/Projects-9%20Bots-00D4FF?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FF88?style=for-the-badge&logo=statuspage&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Advanced-FF6B35?style=for-the-badge&logo=selenium&logoColor=white)
-![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Selenium%20%7C%20AI-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SECTION SEPARATOR                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## ◈ &nbsp; TOP PERFORMING AUTOMATION PROJECTS &nbsp; ◈
-
-<sub>🛡️ Enterprise-grade bots engineered for speed, reliability, and stealth &nbsp;|&nbsp; Multi-platform appointment domination</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              CATEGORY 1 — BLS NETWORK BOTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║            🌍   BLS INTERNATIONAL  NETWORK               ║
-║         Automated Booking · Selfie Bypass · Queue Snipe  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-### 🇲🇦 &nbsp; BLS Morocco Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Morocco-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-)
-![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
-![Bypass](https://img.shields.io/badge/Selfie%20Bypass-Enabled-00FF88?style=flat-square)
-
-> Fully automated BLS Morocco appointment engine with **selfie bypass module** — tackles biometric verification, handles queue logic, and fires booking requests at optimal timing windows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🇵🇰 &nbsp; BLS Pakistan Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Pakistan-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot)
-![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Booking%20Bot-8B5CF6?style=flat-square)
-
-> High-speed appointment sniper for BLS Pakistan. Built for stealth operation with rotating sessions, anti-detection layers, and real-time slot availability polling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🇩🇿 &nbsp; BLS Algeria Bot
-[![Repo](https://img.shields.io/badge/GitHub-BLS--Algeria-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-)
-![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
-![Bypass](https://img.shields.io/badge/Selfie%20Bypass-Enabled-00FF88?style=flat-square)
-
-> Advanced Algeria BLS automation stack. Handles full booking flow + selfie bypass pipeline — engineered to cut through BLS Algeria's multi-step verification without friction.
-
-</td>
-<td width="50%" valign="top">
-
-### 🇲🇷 &nbsp; Mauritania BLS Bot
-[![Repo](https://img.shields.io/badge/GitHub-Mauritania--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot)
-![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
-![Region](https://img.shields.io/badge/Region-West%20Africa-FF6B35?style=flat-square)
-
-> Specialized automation for BLS Mauritania appointments. Optimized for low-latency slot capture in high-demand booking windows with fallback retry logic.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              CATEGORY 2 — EMBASSY / CONSULATE BOTS               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║         🏛️   EMBASSY & CONSULATE AUTOMATION              ║
-║       Italy · Germany · Turkey — Direct Portal Access    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-### 🇮🇹 &nbsp; Prenotami Italy Bot
-[![Repo](https://img.shields.io/badge/GitHub-Prenotami--Italy-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-)
-![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
-![Target](https://img.shields.io/badge/Target-Prenotami.esteri.it-FF6B35?style=flat-square)
-
-> Precision bot targeting Italy's official Prenotami embassy portal. Automates the full appointment reservation flow — login, slot polling, captcha handling, and confirmation capture.
-
-</td>
-<td width="50%" valign="top">
-
-### 🇩🇪 &nbsp; Germany Appointment Bot
-[![Repo](https://img.shields.io/badge/GitHub-Germany--Appointment-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot)
-![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Slot%20Sniper-8B5CF6?style=flat-square)
-
-> Real-time appointment slot sniper for German consulate bookings. Monitors availability 24/7 and fires instant reservation requests the moment a slot opens up.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              CATEGORY 3 — VFS GLOBAL NETWORK                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║          🌐   VFS GLOBAL & ALMAVIVA NETWORK              ║
-║     Turkey · Global Portal · Almaviva — Full Coverage    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table align="center" width="90%">
-<tr>
-<td width="33%" valign="top">
-
-### 🇹🇷 &nbsp; VFS Turkey Bot
-[![Repo](https://img.shields.io/badge/GitHub-VFS--Turkey-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-)
-![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
-![Network](https://img.shields.io/badge/Network-VFS%20Global-8B5CF6?style=flat-square)
-
-> Targeted VFS Turkey appointment automation. Handles session management, CSRF tokens, and dynamic slot availability detection across VFS Turkey's booking infrastructure.
-
-</td>
-<td width="33%" valign="top">
-
-### 🌍 &nbsp; VFS Global Bot
-[![Repo](https://img.shields.io/badge/GitHub-VFS--Global-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot)
-![Featured](https://img.shields.io/badge/⭐-FEATURED-FFD700?style=flat-square)
-![Coverage](https://img.shields.io/badge/Coverage-Multi--Region-FF6B35?style=flat-square)
-
-> The flagship multi-region VFS Global automation engine. One bot, multiple embassies. Designed for cross-country slot hunting on the world's largest visa outsourcing platform.
-
-</td>
-<td width="33%" valign="top">
-
-### 🇮🇹 &nbsp; Almaviva Bot
-[![Repo](https://img.shields.io/badge/GitHub-Almaviva--Bot-00D4FF?style=flat-square&logo=github)](https://github.com/OnlineUnknowns/Almaviva-Bot)
-![Status](https://img.shields.io/badge/Status-Live-00FF88?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Portal%20Automation-8B5CF6?style=flat-square)
-
-> Dedicated Almaviva visa center bot for Italian consulate networks. Automates booking workflows on one of Italy's primary appointment management systems.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    QUICK-ACCESS LINKS TABLE                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## ⚡ 🏆“Repos Elite Best-Sellers for 2 Consecutive Years”🏆
-
-| # | Bot | Platform | Highlight | Link |
-|---|-----|----------|-----------|------|
-| 01 | **BLS Morocco Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Morocco-Bot-Selfi-bypass-) |
-| 02 | **BLS Pakistan Bot** | BLS International | Slot Sniper | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Pakistan-Bot) |
-| 03 | **BLS Algeria Bot** | BLS International | Selfie Bypass | [→ View Repo](https://github.com/OnlineUnknowns/BLS-Algeria-Bot-Booking--Selfie--Bypass-) |
-| 04 | **Mauritania Bot** | BLS International | Auto-Booking | [→ View Repo](https://github.com/OnlineUnknowns/Mauritania-BLS-Bot) |
-| 05 | **Prenotami Italy Bot** | Italy Embassy | Portal Automation | [→ View Repo](https://github.com/OnlineUnknowns/Prenotami-Bot-Booking-Apointment-ITALY-) |
-| 06 | **Germany Appointment Bot** | DE Consulate | Real-Time Sniping | [→ View Repo](https://github.com/OnlineUnknowns/Germany-appointment-booking-bot) |
-| 07 | **VFS Turkey Bot** | VFS Global | Session Management | [→ View Repo](https://github.com/OnlineUnknowns/VFS-Turkey-Bot-Appointment-) |
-| 08 | **VFS Global Bot** | VFS Global | Multi-Region | [→ View Repo](https://github.com/OnlineUnknowns/VFS-GLOBAL-Appointment-Bot) |
-| 09 | **Almaviva Bot** | Almaviva | Italian Consulates | [→ View Repo](https://github.com/OnlineUnknowns/Almaviva-Bot) |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🛠️ &nbsp; Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-
-![Threading](https://img.shields.io/badge/Multi--Threading-00D4FF?style=for-the-badge&logo=speedtest&logoColor=white)
-![Proxy](https://img.shields.io/badge/Proxy%20Rotation-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white)
-![2Captcha](https://img.shields.io/badge/Captcha%20Solving-FFD700?style=for-the-badge&logo=keycdn&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram%20Alerts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER WAVE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<div align="center">
-
-<sub>Built with precision · Engineered for speed · Deployed for dominance</sub>
-
-[![Profile](https://img.shields.io/badge/GitHub-OnlineUnknowns-181717?style=flat-square&logo=github)](https://github.com/OnlineUnknowns)
-
-</div>
-</div>
+## 🌍 Supported Platforms & Countries
+
+| Platform | Full Name | Supported Countries (Examples) | Notes |
+|---|---|---|---|
+| **VFS Global** | VFS Global Services | 🇸🇦 Saudi Arabia, 🇦🇪 UAE, 🇪🇬 Egypt, 🇮🇳 India, 🇵🇰 Pakistan, 🇧🇩 Bangladesh | Schengen, UK, USA, Canada visas |
+| **BLS International** | BLS International Services | 🇪🇬 Egypt, 🇲🇦 Morocco, 🇩🇿 Algeria, 🇹🇷 Turkey, 🇮🇳 India | Spain, Italy, Germany missions |
+| **TLS Contact** | TLScontact Group | 🇲🇦 Morocco, 🇹🇳 Tunisia, 🇩🇿 Algeria, 🇸🇳 Senegal | France, UK, Switzerland visas |
+
+> **Note:** Country and mission support is continuously expanded. Check the admin panel for the latest adapter versions.
 
 ---
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        HEADER BLOCK                               -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=3&section=header" width="100%"/>
+| Layer | Technology | Purpose |
+|---|---|---|
+| **Core Language** | Python 3.12 | Application logic, automation orchestration |
+| **Browser Automation** | Playwright | Multi-browser slot detection and form filling |
+| **Desktop GUI Framework** | Eel | Bridges Python backend to web-based frontend |
+| **Frontend Styling** | TailwindCSS 3.x | Utility-first responsive UI styling |
+| **Frontend Animation** | GSAP (GreenSock) | Smooth transitions, loading states, notifications |
+| **Admin Dashboard** | Flask 3.x | Local web server for the management panel |
+| **Database** | SQLite 3 | Local persistence for profiles, logs, licenses |
+| **Notifications** | Telegram Bot API | Instant push alerts for slot availability and bookings |
+| **Packaging** | PyInstaller | Single-file Windows/macOS executable |
+| **Proxy Management** | Custom Proxy Rotator | HTTP/SOCKS5 rotation with health-checking |
+| **CAPTCHA Solving** | 2Captcha / CapSolver | Automated CAPTCHA bypass integration |
+| **Scheduler** | APScheduler | Cron-style session scheduling |
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=200&section=header&text=SECURITY%20RESEARCH%20LAB&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Defensive%20Security%20%7C%20Threat%20Intelligence%20%7C%20Secure%20Engineering&descAlignY=58&descSize=15&descColor=8b949e" width="100%"/>
+## 🚀 Installation
 
-<br/>
+### Option A — End User (Installer)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Cybersecurity+Researcher+%7C+13%2B+Years+Experience;Defensive+Security+Engineer+%7C+Threat+Intelligence;Critical+Systems+Protection+%7C+SOC+Architecture;Security+%3E+Compliance+%7C+Defense+%3E+Offense)](https://git.io/typing-svg)
+The fastest way to get started. No Python required.
 
-<br/>
+1. Download the latest installer from the [Releases](#) page:
+   ```
+   SmartBookingBot_Setup_v2.x.x.exe
+   ```
+2. Run the installer and follow the on-screen prompts.
+3. Launch **Smart Appointment Booking Bot** from your desktop shortcut.
+4. Enter your license key when prompted (see [Configuration](#-configuration)).
 
-<!-- Core Identity Badges -->
-![Experience](https://img.shields.io/badge/Experience-13%2B%20Years-58a6ff?style=flat-square&logo=buffer&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Defensive%20Security-238636?style=flat-square&logo=shieldsdotio&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-Critical%20Infrastructure-da3633?style=flat-square&logo=gnuprivacyguard&logoColor=white)
-![Approach](https://img.shields.io/badge/Approach-Threat--Informed%20Defense-8b949e?style=flat-square&logo=protonmail&logoColor=white)
+> **System Requirements:** Windows 10/11 (64-bit), 4 GB RAM minimum, internet connection.
 
-</div>
+---
 
-<br/>
+### Option B — Developers (From Source)
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--             S E C T I O N   0 1  —  RESEARCH & PROTECTION         -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+#### Prerequisites
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2&section=header" width="100%"/>
+- Python 3.12+
+- Git
+- Node.js 18+ (for TailwindCSS build step)
 
-<br/>
+#### Steps
 
-<table width="100%"><tr><td>
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-org/smart-booking-bot.git
+cd smart-booking-bot
 
-### 🛡️ &nbsp; Cybersecurity Research & Critical Systems Protection
+# 2. Create and activate a virtual environment
+python -m venv venv
 
-</td><td align="right">
+# Windows
+venv\Scripts\activate
 
-![Research](https://img.shields.io/badge/Research-Active-238636?style=flat-square)
-![ICS/OT](https://img.shields.io/badge/ICS%2FOT-Specialist-da3633?style=flat-square)
+# macOS / Linux
+source venv/bin/activate
 
-</td></tr></table>
+# 3. Install Python dependencies
+pip install -r requirements.txt
 
-Research focus spans **enterprise environments**, **industrial control systems (ICS/OT)**, and **critical national infrastructure** — with emphasis on understanding attacker tradecraft to build resilient, evidence-based defenses.
+# 4. Install Playwright browsers
+playwright install chromium firefox webkit
 
-```
-Primary Research Areas
-─────────────────────────────────────────────────────────────────────
-  ▸ Adversarial Simulation & Purple Team Operations
-  ▸ Critical Infrastructure Attack Surfaces (ICS / SCADA / OT)
-  ▸ Vulnerability Research — Zero-Day Triage & Responsible Disclosure
-  ▸ Malware Behavioral Analysis & Reverse Engineering
-  ▸ Supply Chain Security & Third-Party Risk Modeling
-```
+# 5. Build the TailwindCSS bundle
+npm install
+npm run build:css
 
-**Key Principles:**
-- Threat-informed defense over compliance-first security
-- Evidence-based risk prioritization using adversary intelligence
-- Continuous validation of defensive controls against real TTPs
+# 6. Initialize the local database
+python scripts/init_db.py
 
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--           S E C T I O N   0 2  —  THREAT INTELLIGENCE             -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
-
-<br/>
-
-<table width="100%"><tr><td>
-
-### 🧠 &nbsp; Threat Intelligence & Defensive Security
-
-</td><td align="right">
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Navigator-58a6ff?style=flat-square&logo=target&logoColor=white)
-![TI](https://img.shields.io/badge/CTI-Operational-8b949e?style=flat-square)
-
-</td></tr></table>
-
-Operationalizing **Cyber Threat Intelligence (CTI)** — from raw indicator ingestion to finished intelligence products that drive defensive action. Analysis grounded in the **MITRE ATT&CK** framework with structured diamond model methodology.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Intelligence Collection**
-- OSINT / HUMINT pipeline development
-- Threat actor profiling & campaign tracking
-- Dark web monitoring & data leak detection
-- IOC lifecycle management (creation → deprecation)
-
-</td>
-<td width="50%" valign="top">
-
-**Intelligence Application**
-- ATT&CK mapping & TTP-based detections
-- Threat hunting hypothesis development
-- Adversary emulation planning (MITRE Engage)
-- Strategic & tactical intelligence reporting
-
-</td>
-</tr>
-</table>
-
-```
-Intelligence Frameworks & Standards
-─────────────────────────────────────────────────────────────────────
-  MITRE ATT&CK  │  D3FEND  │  STIX/TAXII  │  OpenCTI
-  Diamond Model │  Kill Chain  │  TIBER-EU  │  NIST CSF
+# 7. Run the application
+python main.py
 ```
 
-<br/>
+---
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--         S E C T I O N   0 3  —  SECURITY ENGINEERING              -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+## ⚙️ Configuration
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+### 1. License Activation
 
-<br/>
-
-<table width="100%"><tr><td>
-
-### 🔐 &nbsp; Security Engineering & Architecture
-
-</td><td align="right">
-
-![Zero Trust](https://img.shields.io/badge/Architecture-Zero%20Trust-58a6ff?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-Multi--Cloud%20Secure-238636?style=flat-square)
-
-</td></tr></table>
-
-Designing and building security systems that are **resilient by architecture** — not bolted on as afterthought. Focused on defense-in-depth models that survive adversarial pressure, not just audit scrutiny.
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Identity & Access**
-```
-├── Zero Trust Architecture
-├── PAM / Just-in-Time Access
-├── MFA & Phishing-Resistant AuthN
-├── Directory Hardening (AD/AAD)
-└── OAuth2 / OIDC / SAML Flows
-```
-
-</td>
-<td width="33%" valign="top">
-
-**Network Security**
-```
-├── Micro-Segmentation Design
-├── Encrypted Traffic Analysis
-├── East-West Traffic Inspection
-├── DNS Security (RPZ / DoH/DoT)
-└── BGP Hardening & DDoS Mitigation
-```
-
-</td>
-<td width="33%" valign="top">
-
-**Cloud & Infra**
-```
-├── Cloud Security Posture Mgmt
-├── Container & K8s Hardening
-├── Immutable Infrastructure
-├── Secrets Management (Vault)
-└── IaC Security Scanning
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Tech Stack Badges -->
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Chronicle-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Hardening-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC%20Security-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp-Vault-000000?style=flat-square&logo=vault&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--          S E C T I O N   0 4  —  MONITORING & IR                  -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
-
-<br/>
-
-<table width="100%"><tr><td>
-
-### 📡 &nbsp; Monitoring & Incident Response
-
-</td><td align="right">
-
-![SOC](https://img.shields.io/badge/SOC-Design%20%26%20Ops-da3633?style=flat-square&logo=datadog&logoColor=white)
-![IR](https://img.shields.io/badge/IR-PICERL%20Framework-58a6ff?style=flat-square)
-
-</td></tr></table>
-
-Building **detection capabilities that scale** — from SIEM rule engineering to full SOC buildout. Incident response grounded in structured methodology, forensic integrity, and post-incident intelligence extraction.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Detection Engineering**
-- SIEM architecture & rule development
-- Behavioral analytics & UEBA tuning
-- Threat hunting playbook construction
-- False positive reduction pipelines
-- Log source normalization & enrichment
-
-**Tooling**
-```
-Splunk  │  Elastic SIEM  │  Microsoft Sentinel
-Suricata  │  Zeek  │  Wazuh  │  Velociraptor
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Incident Response**
-- IR plan development & tabletop facilitation
-- Digital forensics — disk, memory, network
-- Ransomware containment & recovery
-- Threat actor eviction & re-hardening
-- Root cause analysis & lessons-learned reports
-
-**IR Lifecycle**
-```
-Prepare → Identify → Contain
-Eradicate → Recover → Review
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--            S E C T I O N   0 5  —  DEVSECOPS                      -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
-
-<br/>
-
-<table width="100%"><tr><td>
-
-### ⚙️ &nbsp; DevSecOps & Secure Development
-
-</td><td align="right">
-
-![Pipeline](https://img.shields.io/badge/Pipeline-Shift--Left%20Security-238636?style=flat-square&logo=githubactions&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-Security%20Integrated-8b949e?style=flat-square)
-
-</td></tr></table>
-
-Embedding security into the software delivery lifecycle — not as a gate, but as a **continuous, automated capability**. Security that moves at the speed of engineering.
+On first launch, you will be prompted for a license key.
 
 ```
-Secure SDLC Pipeline
-─────────────────────────────────────────────────────────────────────────────
-  Code        →  Commit        →  Build         →  Test          →  Deploy
-  ─────────      ───────────      ──────────       ──────────       ───────
-  Threat        Pre-commit       SAST / SCA       DAST / IAST      Runtime
-  Modeling      Hooks            Container        Fuzzing          Protection
-  Secure        Secret           Image Scan       Pentest          CSPM
-  Coding        Scanning         Signing          Compliance       Monitoring
-  Standards                      SBOM Gen         Gate Check       Alerting
+License Key Format: SABB-XXXX-XXXX-XXXX-XXXX
 ```
 
-<div align="center">
+- Enter your key in the **Activation** screen.
+- The key is bound to your machine's hardware fingerprint.
+- Internet connection is required for initial activation; subsequent launches allow a **7-day offline grace period**.
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD%20Security-181717?style=flat-square&logo=githubactions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-SAST-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-SCA-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-Container%20Scan-1904DA?style=flat-square&logo=aquasec&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-ZAP%20%2F%20Top10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-Static%20Analysis-FF6B35?style=flat-square)
+To transfer your license to a new machine, deactivate it first via **Settings → License → Deactivate**.
 
-</div>
+---
 
-<br/>
+### 2. Telegram Bot Setup
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--            S E C T I O N   0 6  —  LEARNING & REFERENCES          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+To receive booking alerts and confirmations on Telegram:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
+1. Open Telegram and search for **@BotFather**.
+2. Send `/newbot` and follow the prompts to create your bot.
+3. Copy the **Bot Token** provided by BotFather.
+4. Start a conversation with your new bot (or add it to a group).
+5. Retrieve your **Chat ID** using `https://api.telegram.org/bot<TOKEN>/getUpdates`.
+6. In the application, navigate to **Settings → Notifications** and fill in:
 
-<br/>
-
-<table width="100%"><tr><td>
-
-### 📚 &nbsp; Learning & References
-
-</td><td align="right">
-
-![Continuous Learning](https://img.shields.io/badge/Learning-Continuous-58a6ff?style=flat-square&logo=bookstack&logoColor=white)
-
-</td></tr></table>
-
-Continuous learning is non-negotiable in security. Frameworks, communities, and resources that inform daily practice:
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Frameworks & Standards**
-
-| Resource | Domain |
-|----------|--------|
-| [MITRE ATT&CK](https://attack.mitre.org) | Adversary TTPs |
-| [NIST CSF 2.0](https://www.nist.gov/cyberframework) | Risk Framework |
-| [OWASP](https://owasp.org) | Application Security |
-| [CIS Controls](https://www.cisecurity.org/controls) | Baseline Hardening |
-| [NIST SP 800-53](https://csrc.nist.gov) | Control Catalog |
-| [D3FEND](https://d3fend.mitre.org) | Defensive Techniques |
-
-</td>
-<td width="50%" valign="top">
-
-**Communities & Intelligence Feeds**
-
-| Resource | Type |
-|----------|------|
-| [CISA Advisories](https://www.cisa.gov/advisories) | Threat Alerts |
-| [AlienVault OTX](https://otx.alienvault.com) | Open Threat Intel |
-| [Feedly Threat Intel](https://feedly.com) | RSS Intelligence |
-| [The DFIR Report](https://thedfirreport.com) | IR Case Studies |
-| [VX-Underground](https://vx-underground.org) | Malware Research |
-| [Sans Internet Storm](https://isc.sans.edu) | Daily Threat Diary |
-
-</td>
-</tr>
-</table>
-
-**Certifications & Training Pathways**
-
-![OSCP](https://img.shields.io/badge/OSCP-Offensive%20Security-da3633?style=flat-square)
-![CISSP](https://img.shields.io/badge/CISSP-ISC2-0066CC?style=flat-square)
-![CEH](https://img.shields.io/badge/CEH-EC--Council-238636?style=flat-square)
-![GIAC](https://img.shields.io/badge/GIAC-SANS%20Certifications-FF6B35?style=flat-square)
-![SC-200](https://img.shields.io/badge/SC--200-Microsoft%20Security-0078D4?style=flat-square&logo=microsoftazure)
-![CKS](https://img.shields.io/badge/CKS-Kubernetes%20Security-326CE5?style=flat-square&logo=kubernetes)
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                       PHILOSOPHY BLOCK                             -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   "Security is not a product you buy. It's a posture you maintain."   ║
-║                                                                        ║
-║    Know your adversary. Understand your terrain. Defend with intent.  ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
+```ini
+TELEGRAM_BOT_TOKEN = 123456789:AABBCCDDEEFFaabbccddeeff-xxxxxxxx
+TELEGRAM_CHAT_ID   = -1001234567890
 ```
 
+Test the connection using the **Send Test Message** button.
 
+---
 
-## 🦈 Shark Hacker | Cyber Security Specialist 🦈
+### 3. Proxy Configuration
 
+Navigate to **Settings → Proxies** to manage your proxy pool.
 
+Proxies can be entered manually or imported from a `.txt` file (one proxy per line):
 
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+```
+# Supported formats:
+http://user:pass@host:port
+socks5://user:pass@host:port
+http://host:port
+```
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+**Proxy Settings:**
 
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-</div>
+| Setting | Description | Default |
+|---|---|---|
+| Rotation Mode | `sequential` or `random` | `random` |
+| Health Check Interval | Seconds between proxy tests | `60` |
+| Max Failures | Remove proxy after N failures | `3` |
+| Timeout | Per-request proxy timeout (s) | `15` |
 
+---
+
+### 4. Platform Configuration
+
+Each visa platform adapter is configured independently:
+
+```json
+{
+  "platform": "VFS",
+  "country": "Egypt",
+  "mission": "Germany",
+  "visa_category": "Schengen",
+  "applicant_profiles": ["profile_001", "profile_002"],
+  "check_interval_seconds": 30,
+  "run_window": { "start": "08:00", "end": "12:00" },
+  "max_retries": 5
+}
+```
+
+---
+
+## ▶️ Usage — Quick Start
+
+1. **Launch** the application (desktop shortcut or `python main.py`).
+2. **Activate** your license key on first run.
+3. Go to **Profiles → Add New** and fill in your applicant details (name, passport number, visa category, etc.).
+4. Go to **Platforms** and select your target (e.g., VFS Egypt → Germany Mission).
+5. (Optional) Add proxies under **Settings → Proxies**.
+6. Configure your Telegram bot under **Settings → Notifications**.
+7. Click **▶ Start Monitoring**.
+
+The bot will begin polling the selected platform. When a slot is found:
+- 🟢 The UI flashes a green alert with slot details.
+- 📲 A Telegram notification is sent immediately.
+- 🤖 The bot proceeds to auto-book using your applicant profile.
+- ✅ A booking confirmation (with reference number) is sent via Telegram.
+
+To stop monitoring at any time, click **⏹ Stop**.
+
+---
+
+## 🖥️ Admin Panel
+
+The Flask-powered admin panel provides a real-time overview of all bot activity.
+
+**Access:** Open your browser and navigate to:
+```
+http://localhost:5000
+```
+
+**Default Credentials:**
+
+| Field | Value |
+|---|---|
+| Username | `admin` |
+| Password | `admin123` |
+
+> ⚠️ **Change the default password immediately** after first login via **Admin → Settings → Change Password**.
+
+**Admin Panel Features:**
+
+- 📊 **Dashboard** — Live session status, slots found counter, bookings made, uptime
+- 👥 **Account Manager** — Create, edit, and delete applicant profiles
+- 📜 **Activity Logs** — Full timestamped log viewer with search and export (CSV/JSON)
+- 🔑 **License Info** — View activation status, expiry date, and machine fingerprint
+- 🔌 **Platform Adapters** — Enable/disable adapters, view adapter version and last update
+- 🔔 **Notification Tester** — Send a test Telegram message
+- 🔄 **Update Manager** — Check for and apply application updates
+
+---
+
+## 📁 Project Structure
+
+```
+smart-booking-bot/
+│
+├── main.py                  # Application entry point
+├── requirements.txt         # Python dependencies
+├── package.json             # Node.js dependencies (TailwindCSS)
+│
+├── core/
+│   ├── monitor.py           # Slot monitoring engine
+│   ├── booker.py            # Automated booking logic
+│   ├── scheduler.py         # APScheduler session management
+│   ├── proxy_manager.py     # Proxy pool rotation & health checks
+│   ├── captcha.py           # CAPTCHA solving integrations
+│   ├── notifier.py          # Telegram notification dispatcher
+│   └── license.py           # License activation & validation
+│
+├── platforms/
+│   ├── base_adapter.py      # Abstract base class for platform adapters
+│   ├── vfs/
+│   │   └── adapter.py       # VFS Global adapter
+│   ├── bls/
+│   │   └── adapter.py       # BLS International adapter
+│   └── tls/
+│       └── adapter.py       # TLS Contact adapter
+│
+├── admin/
+│   ├── app.py               # Flask admin panel application
+│   ├── routes/              # Admin panel route handlers
+│   └── templates/           # Jinja2 HTML templates
+│
+├── web/
+│   ├── index.html           # Main Eel frontend entry point
+│   ├── css/
+│   │   └── output.css       # Compiled TailwindCSS
+│   ├── js/
+│   │   ├── app.js           # Main frontend logic
+│   │   └── animations.js    # GSAP animation definitions
+│   └── components/          # Reusable UI components
+│
+├── database/
+│   ├── schema.sql           # SQLite schema definitions
+│   └── db.py                # Database connection & query helpers
+│
+├── scripts/
+│   ├── init_db.py           # Database initializer
+│   └── build.spec           # PyInstaller build specification
+│
+├── assets/
+│   ├── icons/               # Application icons
+│   └── screenshots/         # UI screenshots
+│
+├── logs/                    # Runtime log files (auto-created)
+├── config.json              # User configuration (auto-created)
+└── README.md
+```
+
+---
+
+## 🏗️ Building from Source
+
+The application is packaged using **PyInstaller** into a single executable.
+
+### Build Steps
+
+```bash
+# 1. Ensure you are in the project root with venv activated
+
+# 2. Build the TailwindCSS production bundle
+npm run build:css:prod
+
+# 3. Run PyInstaller with the provided spec file
+pyinstaller scripts/build.spec
+
+# The output will be at:
+# dist/SmartBookingBot/SmartBookingBot.exe   (folder mode)
+# dist/SmartBookingBot.exe                   (one-file mode)
+```
+
+### `build.spec` Key Settings
+
+```python
+# scripts/build.spec (excerpt)
+a = Analysis(
+    ['main.py'],
+    datas=[
+        ('web', 'web'),
+        ('admin/templates', 'admin/templates'),
+        ('platforms', 'platforms'),
+        ('database/schema.sql', 'database'),
+        ('assets', 'assets'),
+    ],
+    hiddenimports=[
+        'eel', 'playwright', 'flask', 'apscheduler',
+        'telegram', 'sqlite3',
+    ],
+)
+
+exe = EXE(
+    pyz, a.scripts,
+    name='SmartBookingBot',
+    icon='assets/icons/app.ico',
+    onefile=True,
+    console=False,
+)
+```
+
+### Creating the Windows Installer
+
+Use [NSIS](https://nsis.sourceforge.io/) or [Inno Setup](https://jrsoftware.org/isinfo.php) with the provided script:
+
+```bash
+# With Inno Setup installed:
+iscc scripts/installer.iss
+
+# Output: dist/SmartBookingBot_Setup_v2.x.x.exe
+```
+
+---
+
+## 🔧 Troubleshooting
+
+### ❌ License Activation Fails
+
+- Ensure you have an active internet connection during activation.
+- Check that your system clock is accurate (time drift can cause validation failures).
+- If you've recently changed hardware, contact support to reset your license.
+
+---
+
+### ❌ Browser Fails to Launch / Playwright Error
+
+```bash
+# Reinstall Playwright browsers
+playwright install --with-deps chromium firefox webkit
+```
+
+- On Windows, ensure Microsoft Visual C++ Redistributable is installed.
+- Check that no antivirus is blocking Playwright's browser binaries.
+
+---
+
+### ❌ Platform Login Fails (VFS / BLS / TLS)
+
+- Verify your applicant credentials are correct in **Profiles**.
+- The target platform may have updated its login flow; check for a bot update via the Admin Panel.
+- Try disabling proxies temporarily to rule out IP blocking.
+- Enable **Stealth Mode** under platform settings to reduce bot detection.
+
+---
+
+### ❌ Telegram Notifications Not Received
+
+- Confirm the bot token and chat ID are correct in **Settings → Notifications**.
+- Make sure you have sent at least one message to the bot before the bot can message you.
+- Use the **Send Test Message** button to verify connectivity.
+
+---
+
+### ❌ Admin Panel Not Loading
+
+- Ensure port `5000` is not blocked by your firewall.
+- Check that no other application is using port 5000.
+- Restart the application; the Flask server starts automatically with the app.
+
+---
+
+### ❌ High CPU / Memory Usage
+
+- Reduce the number of simultaneous monitoring sessions.
+- Increase the `check_interval_seconds` value for less critical platforms.
+- Ensure unused Playwright browser instances are properly closed between sessions.
+
+---
+
+### 📋 Log Files
+
+Logs are stored at:
+```
+Windows:  %APPDATA%\SmartBookingBot\logs\
+macOS:    ~/Library/Application Support/SmartBookingBot/logs/
+```
+
+Share the latest `.log` file when contacting support.
+
+---
+
+## 📸 Screenshots
+
+| Main Dashboard | Slot Alert | Admin Panel |
+|---|---|---|
+| ![Dashboard](assets/screenshots/dashboard.png) | ![Alert](assets/screenshots/slot-alert.png) | ![Admin](assets/screenshots/admin-panel.png) |
+
+| Profile Manager | Proxy Settings | Telegram Notification |
+|---|---|---|
+| ![Profiles](assets/screenshots/profiles.png) | ![Proxies](assets/screenshots/proxies.png) | ![Telegram](assets/screenshots/telegram-alert.png) |
+
+> 📌 *Screenshots reflect v2.x UI. Actual appearance may vary by version.*
+
+---
+
+## 🤝 Support & Links
+
+For licensing inquiries, bug reports, or feature requests — reach out through any of the channels below:
+
+<p>
+  <a href="https://www.linkedin.com/in/onlineunknown/" target="_blank">🔗 <strong>LinkedIn</strong> — Connect professionally</a><br/>
+  <a href="https://buymeacoffee.com/onlineunknowns" target="_blank">☕ <strong>Buy Me a Coffee</strong> — Support development</a><br/>
+  <a href="https://wa.me/201286016083" target="_blank">💬 <strong>WhatsApp</strong> — Direct support chat</a>
+</p>
+
+> Response time: typically within 24 hours on business days.
+
+---
+
+## 📄 License
+
+**Smart Appointment Booking Bot** is **proprietary software**.
+
+```
+Copyright © 2024–2026. All rights reserved.
+
+This software and its source code are the exclusive property of the author.
+Unauthorized copying, modification, distribution, sublicensing, or reverse
+engineering of this software, in whole or in part, via any medium, is
+strictly prohibited without the express written permission of the author.
+
+Use of this software is governed by the End-User License Agreement (EULA)
+provided at the time of purchase. A valid, activated license key is required
+for operation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR
+SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE USE OF THIS SOFTWARE.
+```
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://www.linkedin.com/in/onlineunknown/" target="_blank">@onlineunknown</a>
+  &nbsp;•&nbsp;
+  <a href="https://buymeacoffee.com/onlineunknowns" target="_blank">☕ Support the project</a>
+  &nbsp;•&nbsp;
+  <a href="https://wa.me/201286016083" target="_blank">💬 Get in touch</a>
+</p>
